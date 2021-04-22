@@ -1,4 +1,4 @@
-fun main(args: Array<String>){
+fun main(){
     // number types
     val myInt: Int = 90;
     val myDouble: Float = 3.15f;

@@ -1,4 +1,4 @@
-fun main(args: Array<String>){
+fun main(){
     // if else condition
     val num: Int = 8;
     val cond: Int = 7;
